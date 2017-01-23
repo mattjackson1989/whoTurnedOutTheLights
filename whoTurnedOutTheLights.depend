@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475628068 source:c:\users\matt\documents\computer science\datastructures\whoturnedoutthelights\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
